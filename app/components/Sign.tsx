@@ -22,7 +22,7 @@ const Sign: FC<Props> = (props) => {
         message: Buffer.from(props.message).toString('base64'),
         signature: signedMessage.signature.toString('base64'),
       })
-    } catch (e) {
+    } catch (e: any) {
       if (e.message && !e.message.includes('User rejected')) {
         alert(e.message)
       }
