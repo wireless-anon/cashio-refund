@@ -12,6 +12,7 @@ function MyApp({ Component, pageProps }: AppProps) {
         <Head>
           <title>Cashio Refund</title>
           <link rel="icon" href="/favicon.ico" />
+          <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
         </Head>
         <div className="mt-5 flex flex-row items-center">
           <Image src={CashioLogo} height="48px" width="48px" />
