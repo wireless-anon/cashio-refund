@@ -17,7 +17,7 @@ const Home: NextPage = () => {
         to help victims of the cashio.app hack create refund requests. The code
         for this website is{' '}
         <a
-          href="https://github.com/wireless-anon"
+          href="https://github.com/wireless-anon/cashio-refund"
           className="text-blue-400 hover:underline"
           target="_blank"
         >

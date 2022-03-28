@@ -28,7 +28,7 @@ All of the messages will be sent to jimthereaper and Saint Eclectic
 DM @wireless_anon on twitter
 
 - Where can I find the code for this site?
-https://github.com/wireless-anon
+https://github.com/wireless-anon/cashio-refund
 
 - What do I do after signing the message?
 The Cashio team will create a form for people to submit their messages. For now, please securely save your base64 message AND base64 signature. Join the Cashio discord to receive updates https://discord.com/invite/5Mvhfc8vnX.
