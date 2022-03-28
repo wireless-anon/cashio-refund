@@ -30,11 +30,14 @@ DM @wireless_anon on twitter
 - Where can I find the code for this site?
 https://github.com/wireless-anon/cashio-refund
 
-- What do I do after signing the message?
-The Cashio team will create a form for people to submit their messages. For now, please securely save your base64 message AND base64 signature. Join the Cashio discord to receive updates https://discord.com/invite/5Mvhfc8vnX.
+- What happens after I sign the message?
+A file containing your public key, base64 message, and base64 signature will be generated and downloaded automatically.
 
-- What do I need to save?
-You need to save the base64 message AND the base64 signature
+- What do I do after downloading the file?
+The Cashio team will create a form for people to send their submissions. For now, please securely save the generated message file.
+
+- Where do I go for updates
+Join the Cashio discord to receive updates https://discord.com/invite/5Mvhfc8vnX.
 `
 
 export const FORMAT = `\
