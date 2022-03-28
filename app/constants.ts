@@ -18,26 +18,23 @@ all this information MUST be signed by either the original account owner of cash
 also godoflight and all other are scammer. only trust message signed by account.`
 
 export const FAQ_MESSAGE = `\
-- How do I update my message after I've already submitted?
-Create a new message with the same wallet and it will be updated automatically
-
-- What happens to my message after I submit?
-All of the messages will be sent to jimthereaper and Saint Eclectic
-
-- How do I contact the creator of this site?
-DM @wireless_anon on twitter
-
-- Where can I find the code for this site?
-https://github.com/wireless-anon/cashio-refund
-
 - What happens after I sign the message?
 A file containing your public key, base64 message, and base64 signature will be generated and downloaded automatically.
 
 - What do I do after downloading the file?
 The Cashio team will create a form for people to send their submissions. For now, please securely save the generated message file.
 
+- How do I update my message after I've already submitted?
+Create a new message with the same wallet and generate a new file
+
 - Where do I go for updates
 Join the Cashio discord to receive updates https://discord.com/invite/5Mvhfc8vnX.
+
+- How do I contact the creator of this site?
+DM @wireless_anon on twitter
+
+- Where can I find the code for this site?
+https://github.com/wireless-anon/cashio-refund
 `
 
 export const FORMAT = `\
